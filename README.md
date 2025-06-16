@@ -10,7 +10,6 @@ This project is a Python-based exploratory data analysis of real-world HTTP web 
 - 📅 Convert timestamp strings to datetime objects
 - 🗂️ Extract file types and handle malformed requests
 - 📈 Analyze traffic patterns, common requests, and error codes
-- 📊 Visualize key trends using graphs and plots
 
 ---
 
